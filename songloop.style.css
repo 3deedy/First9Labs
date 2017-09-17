@@ -1,1 +1,22 @@
-“Lab 3”
+body {
+    background-color: darkred;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+
+
+.friend {
+    background-color: white;
+}
+
+.friend p {
+    text-align: center;
+}
+
+#singing-button {
+    
+}
