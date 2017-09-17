@@ -1,1 +1,17 @@
-“Lab 2”
+body {
+    background-color: darkred;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+.friend {
+    background-color: white;
+}
+
+.friend p {
+    text-transform: uppercase;
+    text-align: center;
+}
