@@ -1,1 +1,12 @@
-“Lab 4”
+.square {
+    width: 3em;
+    height: 3em;
+    color: white;
+    background-color: black;
+    float: left;
+    margin: 0.2em;
+    font-size: 5em;
+    text-align: center;
+    line-height: 3em;
+    vertical-align: middle;
+}

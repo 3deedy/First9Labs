@@ -17,7 +17,7 @@ function displayInterests(interest1, interest2, interest3, interest4){
     console.log("* " + interest4);
 
 };
-displayInterests("Learning Code", "Big Brother (TV show)", "Hiking", "Baking");
+displayInterests("Learning Code", "Big Brother TV show", "Hiking", "Baking");
 
 console.log("My Previous Experience:".toUpperCase());
 

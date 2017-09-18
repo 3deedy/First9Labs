@@ -1,5 +1,5 @@
 var friends = ['Nikki', 'Jason', 'Sammi', 'Patty', 'Mike'];
-var singFriend = ['NIKKITA:', 'JASON:', 'SAMANTHA:', 'PATRICIA', 'MICHAEL'];
+var singFriend = ['NIKITA:', 'JASON:', 'SAMANTHA:', 'PATRICIA', 'MICHAEL'];
 
 function sing() {
     for (var i = 0; i < friends.length; i++) {
