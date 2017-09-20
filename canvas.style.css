@@ -24,3 +24,18 @@
     background-color: purple;
     border-radius: 50%;
 }
+
+.triangle {
+  border-width: 0;
+  border-color: transparent;
+  border-bottom-width: ;
+  border-right-width: ;
+}
+
+.rectangle {
+  background-color: orange;
+}
+
+.square {
+  background-color: magenta;
+}
